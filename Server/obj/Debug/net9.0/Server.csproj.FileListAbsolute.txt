@@ -53,3 +53,4 @@ D:\SignalR\Server\obj\Debug\net9.0\refint\Server.dll
 D:\SignalR\Server\obj\Debug\net9.0\Server.pdb
 D:\SignalR\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
 D:\SignalR\Server\obj\Debug\net9.0\ref\Server.dll
+D:\SignalR\Server\obj\Debug\net9.0\Server.sourcelink.json
